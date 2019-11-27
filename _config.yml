@@ -1,9 +1,9 @@
 ---
-title: Stackbit Exto Theme
+title: Learn Milenials Again
 baseurl: "/"
 permalink: "/:title/"
-color_scheme: light
-accent_color: pink
+color_scheme: dark
+accent_color: green
 header:
   title: Learn to Write for Milenials
   has_nav: true
